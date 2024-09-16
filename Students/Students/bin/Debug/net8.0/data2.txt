@@ -1,0 +1,4 @@
+course id:1|name:math|teacher_id:1|students:1,2
+student id:1|name:alice|courses:1
+student id:2|name:bob|courses:1
+teacher id:1|name:mr.Teacher|experience:20|courses:1

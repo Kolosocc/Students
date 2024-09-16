@@ -1,0 +1,5 @@
+student id:1|name:Egor|courses:1
+student id:2|name:Egor2|courses:1
+student id:3|name:Egor3|courses:1
+teacher id:1|name:Egor.Th|experience:10|courses:1
+course id:1|name:Math|teacher_id:1|students:1,2,3

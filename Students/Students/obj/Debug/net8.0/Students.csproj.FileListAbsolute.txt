@@ -1,0 +1,14 @@
+G:\Three\Csh\Students\Students\bin\Debug\net8.0\Students.exe
+G:\Three\Csh\Students\Students\bin\Debug\net8.0\Students.deps.json
+G:\Three\Csh\Students\Students\bin\Debug\net8.0\Students.runtimeconfig.json
+G:\Three\Csh\Students\Students\bin\Debug\net8.0\Students.dll
+G:\Three\Csh\Students\Students\bin\Debug\net8.0\Students.pdb
+G:\Three\Csh\Students\Students\obj\Debug\net8.0\Students.GeneratedMSBuildEditorConfig.editorconfig
+G:\Three\Csh\Students\Students\obj\Debug\net8.0\Students.AssemblyInfoInputs.cache
+G:\Three\Csh\Students\Students\obj\Debug\net8.0\Students.AssemblyInfo.cs
+G:\Three\Csh\Students\Students\obj\Debug\net8.0\Students.csproj.CoreCompileInputs.cache
+G:\Three\Csh\Students\Students\obj\Debug\net8.0\Students.dll
+G:\Three\Csh\Students\Students\obj\Debug\net8.0\refint\Students.dll
+G:\Three\Csh\Students\Students\obj\Debug\net8.0\Students.pdb
+G:\Three\Csh\Students\Students\obj\Debug\net8.0\Students.genruntimeconfig.cache
+G:\Three\Csh\Students\Students\obj\Debug\net8.0\ref\Students.dll

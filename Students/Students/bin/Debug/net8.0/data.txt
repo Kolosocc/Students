@@ -1,0 +1,4 @@
+course id:101|name:Math|teacher_id:1|students:1,2
+teacher id:1|name:Mr. Smith|experience:10|courses:101
+student id:2|name:Bob|courses:101
+student id:1|name:Alice|courses:101
